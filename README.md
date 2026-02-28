@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rambabu Zaddahttps://github.com/ramu123307/ramu123307/projects
+# Hi 👋, I'm Rambabu Zadda
 
 💻 AI/ML Engineer | Front-mmvmEnd Developer
 🚀 Building AI-powered real-world applications
