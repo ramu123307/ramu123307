@@ -41,7 +41,9 @@ Data Structures and Algorithms
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ramu123307&show_icons=true)
+![Rambabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramu123307&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramu123307&theme=tokyonight)
 
 ---
 
