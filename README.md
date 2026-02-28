@@ -1,32 +1,44 @@
-# Hi 👋, I'm Zadd Rambabu
+# Hi 👋, I'm Rambabu Zadda
 
-🎓 B.Tech Computer Science Student  
-💻 Aspiring AI and ML Engineer  
-🚀 Passionate about AI and Mechine Learning technologies
+💻 AI/ML Engineer | Full Stack Developer
+🚀 Building AI-powered real-world applications
+🎯 Open to Internship and Software Developer Roles
 
 ---
 
 ## 🔥 Skills
 
-- Python and Java
-- Mechine Learning and Deep Learning
-- Natural Language Processing
-- Numpy , Pandas & matplotlib
-- Flask
-- Sql and Gen-AI
-- Data Structures & Algorithms
+🔥 Skills
+
+💻 Programming Languages:
+Python | Java 
+
+🤖 AI / ML:
+AI Models | Machine Learning | Deep Learning | NLP | Reinforcement Learning | Scikit-learn 
+
+🌐 Web Development:
+HTML | CSS | Flask | Streamlit
+
+📊 Data Science:
+NumPy | Pandas | Matplotlib | SQL | 
+
+🧠 Core CS:
+Data Structures and Algorithms
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Resume Screening Assistant
-• Flask based AI project  
-• Extracts and analyzes resumes  
+• AI-powered Resume Analyzer using Python and Flask
+• Uses NLP and Machine Learning
+• Helps recruiters filter candidates
 
 ### 🔹 Disease Prediction and Health Recommondation Syastem using NLP
 • NLP based project  
-• Predicts disease from symptoms  
+• Predicts disease from symptoms
+• Provides health recommendations
+• Built using Python and NLP
 
 ---
 
