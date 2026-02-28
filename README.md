@@ -1,6 +1,6 @@
-# Hi 👋, I'm Rambabu Zadda
+# Hi 👋, I'm Rambabu Zaddahttps://github.com/ramu123307/ramu123307/projects
 
-💻 AI/ML Engineer | Full Stack Developer
+💻 AI/ML Engineer | Front-mmvmEnd Developer
 🚀 Building AI-powered real-world applications
 🎯 Open to Internship and Software Developer Roles
 
