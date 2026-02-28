@@ -1,19 +1,19 @@
 # Hi 👋, I'm Zadd Rambabu
 
 🎓 B.Tech Computer Science Student  
-💻 Aspiring Software Engineer  
+💻 Aspiring AI and ML Engineer  
 🚀 Passionate about AI and Mechine Learning technologies
 
 ---
 
 ## 🔥 Skills
 
-- Java
-- Python
-- JavaScript
-- HTML, CSS
+- Python and Java
+- Mechine Learning and Deep Learning
+- Natural Language Processing
+- Numpy , Pandas & matplotlib
 - Flask
-- MySQL
+- Sql and Gen-AI
 - Data Structures & Algorithms
 
 ---
@@ -24,7 +24,7 @@
 • Flask based AI project  
 • Extracts and analyzes resumes  
 
-### 🔹 Disease Prediction System
+### 🔹 Disease Prediction and Health Recommondation Syastem using NLP
 • NLP based project  
 • Predicts disease from symptoms  
 
@@ -38,5 +38,5 @@
 
 ## 📫 Contact Me
 
-- Email: yourmail@gmail.com
-- LinkedIn: linkedin link
+- Email: jram15395@gmail.com
+- LinkedIn: https://www.linkedin.com/in/zadda-rambabu-1664a92b3
