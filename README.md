@@ -1,15 +1,12 @@
 # Hi 👋, I'm Rambabu Zadda
 
-💻 AI/ML Engineer | Front-mmvmEnd Developer
+💻 AI/ML Engineer | Front-End Developer
 🚀 Building AI-powered real-world applications
 🎯 Open to Internship and Software Developer Roles
 
 ---
 
 ## 🔥 Skills
-
-🔥 Skills
-
 💻 Programming Languages:
 Python | Java 
 
